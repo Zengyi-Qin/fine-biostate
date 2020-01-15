@@ -1,6 +1,6 @@
 # Learning Fine-grained Estimate of Biological States from Coarse Labels
 
-This repository contains an official implementation of ** Learning Fine-grained Estimate of Biological States from Coarse Labels**
+This repository contains an official implementation of **Learning Fine-grained Estimate of Biological States from Coarse Labels**
 
 # Introduction
 
