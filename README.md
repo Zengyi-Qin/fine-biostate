@@ -2,9 +2,6 @@
 
 This repository contains an official implementation of **Learning Fine-grained Estimate of Biological States from Coarse Labels**
 
-### Introduction
-
-
 ### Install
 Create an virtual environment with Python 3.6 using Anaconda:
 ```bash
