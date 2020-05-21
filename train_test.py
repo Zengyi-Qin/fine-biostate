@@ -370,5 +370,5 @@ if __name__ == '__main__':
                       './data/test.hdf5',
                       num_classes=5,
                       use_fine_grained=False,
-                      regression_type='all_dr')
+                      regression_type='slack_l1')
     trainer.train(256, 120000)
