@@ -22,5 +22,5 @@ pip install - r requirements.txt
 ### Training and Testing
 Run the following command for training. The testing will be performed during training.
 ```bash
-python train.py
+python train_test.py
 ```
